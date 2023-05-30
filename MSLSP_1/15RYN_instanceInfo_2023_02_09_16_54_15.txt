@@ -1,4 +1,0 @@
-tile:15RYN
-time:2023_02_09_16_54_15
-run:SCC
-num-cores:
